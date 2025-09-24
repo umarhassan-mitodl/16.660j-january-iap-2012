@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 549a545c-14f9-1e5d-70db-082f366376c2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a261b6be-1429-bc33-3128-d8f9b914a91b
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: c5db4d7c-b32c-066d-ce4e-879129f5d32d
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes-1
+  weight: 30
+- identifier: 41be8c54-3171-ea80-5878-4f750489aaf0
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 40

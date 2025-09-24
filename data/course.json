@@ -1,0 +1,73 @@
+{
+  "term": "January IAP",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Health Care Management"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "legacy_uid": "3bdd878a-e9fd-e97d-46aa-a8d519a94ae8",
+  "instructors": {
+    "content": [
+      "ff38ba94-82e8-6f1a-4866-d7ff8f123a94",
+      "052a3b54-8b90-be9a-2451-1f6adac46ff3",
+      "baadd880-a8eb-16b1-91cd-8b83782bf2a1",
+      "a3dae6d5-05cc-0d93-a0a5-d3fc79dca0d3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bb2b9f6f-539f-ebfa-ab4c-819728f1a081",
+    "website": "16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012"
+  },
+  "course_title": "Introduction to Lean Six Sigma Methods",
+  "course_description": "This course covers the fundamental principles, practices and tools of Lean Six Sigma methods that underlay modern organizational productivity approaches applied in aerospace, automotive, health care, and other sectors. It includes lectures, active learning exercises, a plant tour, talks by industry practitioners, and videos. One third of the course is devoted to a physical simulation of an aircraft manufacturing enterprise or a clinic to illustrate the power of Lean Six Sigma methods.\n\nThe course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "16",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.62J,16.853",
+  "primary_course_number": "16.660J",
+  "course_image_thumbnail": {
+    "content": "f832aa43-88e2-2d41-05f4-06d4163ca58d",
+    "website": "16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "e6b494ba-dbcf-4091-896a-afefb4837d7b",
+  "site_short_id": "16.660j-january-iap-2012",
+  "site_url_path": "courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012",
+  "title": "Course Metadata"
+}
