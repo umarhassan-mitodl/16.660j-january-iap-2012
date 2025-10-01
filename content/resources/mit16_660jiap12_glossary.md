@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/cb7b7689f877c88831caea046d125a59_MIT16_660JIAP12_Glossary.pdf
 file_size: 223889
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

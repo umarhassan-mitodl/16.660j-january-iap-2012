@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, biographies of course instructors, course history, and the schedule
   of course topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +21,7 @@ Course Description
 
 This course introduces the fundamental Lean Six Sigma principles that underlay modern continuous improvement approaches for industry, government and other organizations. Lean emerged from the Japanese automotive industry, particularly Toyota, and is focused on the creation of value through the relentless elimination of waste. Six Sigma is a quality system developed at Motorola which focuses on elimination of variation from all processes. The basic principles have been applied to a wide range of organizations and sectors to improve quality, productivity, customer satisfaction, employee satisfaction, time-to-market and financial performance.
 
-The curriculum corresponds to 24 hours spread over 3 days. The almost 600 slides given to the students, video tapes of many of the lectures, and some of the active learning exercises are available on MIT OpenCourseWare. Fifty percent of the contact hours involve hands-on exercises and simulations, most of which are not available from OCW. An instructor's disk of the complete curriculum is available for purchase from the {{% resource_link "70de79db-85cd-4ec9-873f-1759b0aae325" "LAI Educational Network" %}}. Other course supporting materials, including the Lego® enterprise simulations, are also available for purchase. The course was originally developed for an aerospace audience at the upper class undergraduate level. Over 10 years, it has been refined and delivered to over 1,600 students from undergraduate through professional graduate degree programs, and to seasoned industry veterans from a diverse range of application domains. It assumes no prior knowledge of the subject material. For those interested in taking the entire course, including all of the active learning exercises, it is available through {{% resource_link "844560b8-5972-487a-a3f5-ef4c38d64c6c" "MIT Professional Education" %}} for interested groups.
+The curriculum corresponds to 24 hours spread over 3 days. The almost 600 slides given to the students, video tapes of many of the lectures, and some of the active learning exercises are available on MIT OpenCourseWare. Fifty percent of the contact hours involve hands-on exercises and simulations, most of which are not available from OCW. An instructor's disk of the complete curriculum is available for purchase from the [LAI Educational Network](http://www.metisdesign.com/lean-enterprise/academy.html). Other course supporting materials, including the Lego® enterprise simulations, are also available for purchase. The course was originally developed for an aerospace audience at the upper class undergraduate level. Over 10 years, it has been refined and delivered to over 1,600 students from undergraduate through professional graduate degree programs, and to seasoned industry veterans from a diverse range of application domains. It assumes no prior knowledge of the subject material. For those interested in taking the entire course, including all of the active learning exercises, it is available through [MIT Professional Education](http://web.mit.edu/professional/short-programs/courses/lean_academy_short_course.html) for interested groups.
 
 Biographies of the course instructors can be found below:
 

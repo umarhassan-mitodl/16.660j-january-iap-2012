@@ -4,6 +4,8 @@ description: This resource contains information regarding clay jones notes.
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/403121705aad4c6e80ffa7dc4a4b2670_MIT16_660IAP12_3-7JonNot.pdf
 file_size: 555153
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/a19bd56337ff09780341c0488d6fb083_hQRfikgHzdg.pdf
 file_size: 54926
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

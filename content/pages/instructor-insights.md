@@ -13,7 +13,7 @@ uid: a261b6be-1429-bc33-3128-d8f9b914a91b
 
 This page focuses on the course _16.660J Introduction to Lean Six Sigma Methods_ as it was taught by Professor Earll Murman, Dr. Hugh McManus, Professor Annalisa Weigel and Dr. Bo Madsen during January 2012.
 
-This is an introductory course suitable for students with no prior background in the subject area. Content is heavily weighted towards Lean and lightly towards Six Sigma. Coverage is roughly equivalent to the {{% resource_link "276e01d6-c034-4962-a827-0730e58c7e0f" "Bronze level Lean Certification of the SME, AME, Shingo Institute and ASQ" %}}. Learner centric pedagogy equally balances active learning exercises with didactic lecture material.
+This is an introductory course suitable for students with no prior background in the subject area. Content is heavily weighted towards Lean and lightly towards Six Sigma. Coverage is roughly equivalent to the [Bronze level Lean Certification of the SME, AME, Shingo Institute and ASQ](http://www.sme.org/lean-certification.aspx). Learner centric pedagogy equally balances active learning exercises with didactic lecture material.
 
 ## Course Outcomes
 

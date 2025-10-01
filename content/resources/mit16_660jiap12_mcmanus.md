@@ -5,6 +5,8 @@ description: This resource contains information regarding instructor biography, 
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/e4bea8dd89acf49d450a325b2e04065e_MIT16_660JIAP12_mcmanus.pdf
 file_size: 84367
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

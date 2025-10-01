@@ -4,6 +4,8 @@ description: This resource contains information regarding eric dickson bio.
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/1b61540e9264dc89f429ef276dedefac_MIT16_660JIAP12_DicksBio.pdf
 file_size: 114103
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

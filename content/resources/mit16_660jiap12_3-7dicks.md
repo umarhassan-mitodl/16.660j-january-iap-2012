@@ -5,6 +5,8 @@ description: This resource contains information regarding enterprise speaker, er
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/789850c76d03e6451e94b1fdda9bf67f_MIT16_660JIAP12_3-7Dicks.pdf
 file_size: 703818
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
