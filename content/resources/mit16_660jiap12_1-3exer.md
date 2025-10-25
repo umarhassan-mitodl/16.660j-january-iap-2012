@@ -4,8 +4,6 @@ description: This resource contains information regarding sasha & andy hot dog e
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/b0d1b9825d35e230279875a6b23fc498_MIT16_660JIAP12_1-3exer.pdf
 file_size: 112536
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

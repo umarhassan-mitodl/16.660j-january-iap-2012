@@ -4,8 +4,6 @@ description: This resource contains information regarding AP mats.
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/799bedcc88e950a02caafd1b6366de29_MIT6_660JIAP12_3-2APVari.pdf
 file_size: 674808
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
